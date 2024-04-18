@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.94b36640.css",
-    "main.js": "/react-gh-pages/static/js/main.1275b2f8.js",
-    "static/js/453.a0f81d97.chunk.js": "/react-gh-pages/static/js/453.a0f81d97.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.94b36640.css.map": "/react-gh-pages/static/css/main.94b36640.css.map",
-    "main.1275b2f8.js.map": "/react-gh-pages/static/js/main.1275b2f8.js.map",
-    "453.a0f81d97.chunk.js.map": "/react-gh-pages/static/js/453.a0f81d97.chunk.js.map"
+    "main.css": "/FEE-Assignment/static/css/main.94b36640.css",
+    "main.js": "/FEE-Assignment/static/js/main.178a3937.js",
+    "static/js/453.a0f81d97.chunk.js": "/FEE-Assignment/static/js/453.a0f81d97.chunk.js",
+    "index.html": "/FEE-Assignment/index.html",
+    "main.94b36640.css.map": "/FEE-Assignment/static/css/main.94b36640.css.map",
+    "main.178a3937.js.map": "/FEE-Assignment/static/js/main.178a3937.js.map",
+    "453.a0f81d97.chunk.js.map": "/FEE-Assignment/static/js/453.a0f81d97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94b36640.css",
-    "static/js/main.1275b2f8.js"
+    "static/js/main.178a3937.js"
   ]
 }
